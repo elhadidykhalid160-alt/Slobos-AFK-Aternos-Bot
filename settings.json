@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MisteCrafts-pgbs.aternos.me
-",
+    "ip": "MisteCrafts-pgbs.aternos.me",
     "port": 39812,
     "version": "",
     "try-creative": false
